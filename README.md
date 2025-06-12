@@ -1,1 +1,1 @@
-# Odin-recipe
+<strong>"This hands-on project from The Odin Project curriculum</strong> features an intuitive interface designed to practice and solidify core HTML concepts. Through interactive exercises, it builds a robust foundation for web development."
